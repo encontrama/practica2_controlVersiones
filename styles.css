@@ -3,3 +3,8 @@ h1 {
   font-style: italic;
   background-color: black;
 }
+
+img {
+  width: 200px;
+  height: 200px;
+}
